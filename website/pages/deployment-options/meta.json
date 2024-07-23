@@ -1,0 +1,7 @@
+{
+  "aws": "AWS",
+  "azure": "Azure",
+  "plesk": "Plesk",
+  "vercel": "Vercel",
+  "layer0": "Layer0"
+}
